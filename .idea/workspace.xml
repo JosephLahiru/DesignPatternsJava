@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ceccc8cb-9fee-4ffe-8886-6e778f5ab22a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatternsJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ictec/singleton/BillPughInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ictec/singleton/EagerInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ictec/singleton/LazyInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ictec/singleton/SingletonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ictec/singleton/StaticBlockInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ictec/singleton/ThreadSafeInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ictec/observer/ObserverDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686129947378</updated>
-      <workItem from="1686129948551" duration="2707000" />
+      <workItem from="1686129948551" duration="2949000" />
     </task>
     <servers />
   </component>
